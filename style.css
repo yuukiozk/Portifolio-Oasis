@@ -65,7 +65,7 @@
       position: absolute;
       top: 8vh;
       right: 0;
-      width: 50vw; /*trocar para 100 caso queira inteira */ 
+      width: 100vw; /*trocar para 100 caso queira inteira / 50 se for até a metade */ 
       height: 92vh;
       background: #23232e;
       flex-direction: column;
